@@ -42,7 +42,7 @@ I've worked with React for several years and feel like I know the fundamentals. 
 
 This has been one I've heard a lot about and want to dabble in to see what the hype is about. Little to no research has been done on my part.
 
-- [] Complete Next.js tutorial (Basics)
+- [x] Complete Next.js tutorial (Basics)
 - [] Build blog site.
 - [] Write blog about experience learning Next.js
 
@@ -59,13 +59,27 @@ Seems popular on twitter and I want to see what services it provides
 ## Certifications
 
 - [] AWS Cloud Practitioner
+  - [] Review topics exam covers
+  - [] Develop study guide
+  - [] Spend 2-3 weeks preparing
+  - [] Take exam
 - [] AWS Developer
+  - [] Review topics exam covers
+  - [] Develop study guide
+  - [] Spend 2-3 weeks preparing
+  - [] Take exam
 - [] AWS Solution Architect
+  - [] Review topics exam covers
+  - [] Develop study guide
+  - [] Spend 2-3 weeks preparing
+  - [] Take exam
 
 ## Fitness
 
 - [] Bench 365 lbs
+  - Currently at 335 lbs
 - [] Squat 500 lbs
+  - Currently at
 - [] Deadlift 550 - 600 lbs
 - [] 30 pull-ups
 - [] 50 pushups
@@ -77,5 +91,10 @@ Seems popular on twitter and I want to see what services it provides
   - Books Read:
     - _None_
 - [] Learn how to play three songs on the piano
+  - [] Buy piano
+  - [] Learn .....
+  - [] Learn .....
+  - [] Learn .....
 - [] Teach Robyn (my adorable golden doodle) 10 new tricks.
+  - [x] Drop it
 - [] Make 10k profit in stocks
